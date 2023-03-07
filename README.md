@@ -1,5 +1,3 @@
-# vue-maps
-
 ## Project setup
 ```
 npm install
